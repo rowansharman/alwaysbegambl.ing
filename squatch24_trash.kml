@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Placemark>
+<name>1/24 mattress</name>
+<Point><coordinates>-123.0552558246414,47.5906992276806,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>4/23 burnt car</name>
+<Point><coordinates>-123.03938342905704,47.68432477135434,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>5/23 boat/trailer</name>
+<Point><coordinates>-122.94629034154653,47.65176037768323,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>1/24 saturn</name>
+<Point><coordinates>-123.04663970310013,47.988057920903856,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>1/24 chevy tahoe</name>
+<Point><coordinates>-123.07079367544517,47.99340282172509,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>7/22 camper trailer</name>
+<Point><coordinates>-123.10062034202917,47.97314454989542,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>7/22 eclipse</name>
+<Point><coordinates>-123.19158396844041,47.99102754588753,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>6/23 truck bed</name>
+<Point><coordinates>-123.18412629080025,47.99136276312787,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>6/22 burnt titan</name>
+<Point><coordinates>-123.17562728284666,48.00289162895365,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>11/23 ram 1500</name>
+<Point><coordinates>-123.17562728284666,48.00289162895365,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>9/24 burnt pt cruiser</name>
+<Point><coordinates>-123.5829074009269,47.40445442202995,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>9/24 campsite trash</name>
+<Point><coordinates>-123.5724304764502,47.41217577208487,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>5/23 paint buckets</name>
+<Point><coordinates>-123.23997276973708,47.30772526806366,0</coordinates></Point>
+</Placemark>
+</Document>
+</kml>
