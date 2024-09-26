@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Placemark>
+<name>Camp</name>
+<Point><coordinates>-123.20523,47.49398,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>SL1</name>
+<description>Start</description>
+<Point><coordinates>-123.17880,47.30613,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>SL2</name>
+<description>High Steel Bridge w/ trash</description>
+<Point><coordinates>-123.27989,47.36806,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>SL3</name>
+<description>R its one big loop</description>
+<Point><coordinates>-123.32051,47.35752,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>SL4</name>
+<description>trash</description>
+<Point><coordinates>-123.32320,47.38162,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>SL5</name>
+<description>L = loop R = more trails</description>
+<Point><coordinates>-123.32295,47.40899,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>SL6</name>
+<description>unknown awesomeness</description>
+<Point><coordinates>-123.32862,47.41571,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>SL7</name>
+<description>dusty trail w/ lots of trash</description>
+<Point><coordinates>-123.34559,47.35504,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>WL1</name>
+<description>Stay straight on FS 23</description>
+<Point><coordinates>-123.44127,47.40628,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>WL2</name>
+<description>L or R</description>
+<Point><coordinates>-123.47028,47.40179,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>WL3</name>
+<description>Still a bid loop</description>
+<Point><coordinates>-123.58003,47.37022,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>WL4</name>
+<description>R turn</description>
+<Point><coordinates>-123.59792,47.37305,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>WL5</name>
+<description>L turn to the beach</description>
+<Point><coordinates>-123.57809,47.40326,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>WL6</name>
+<description>Trash</description>
+<Point><coordinates>-123.55710,47.44447,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>WL7</name>
+<description>Trash</description>
+<Point><coordinates>-123.55410,47.44705,0</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

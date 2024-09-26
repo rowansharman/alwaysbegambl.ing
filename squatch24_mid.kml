@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Placemark>
+<name>Camp</name>
+<Point><coordinates>-123.20523,47.49398,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RB1</name>
+<Point><coordinates>-122.91311,47.77299,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RB2</name>
+<description>R = path L = ?</description>
+<Point><coordinates>-122.95628,47.75738,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RB3</name>
+<description>R = who knows</description>
+<Point><coordinates>-122.95702,47.75636,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RB4</name>
+<description>L = Hwy R = falls</description>
+<Point><coordinates>-122.91282,47.70450,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>RB5</name>
+<description>Rocky Brook Falls</description>
+<Point><coordinates>-122.94358,47.71868,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HH1</name>
+<Point><coordinates>-123.01733,47.56723,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HH2</name>
+<Point><coordinates>-123.12909,47.59481,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HH3</name>
+<description>R turn to a lake</description>
+<Point><coordinates>-123.08974,47.57564,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HH4</name>
+<description>Powerline trails!</description>
+<Point><coordinates>-123.07329,47.55310,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HH5</name>
+<description>Trash &amp; cool trail</description>
+<Point><coordinates>-123.09487,47.53641,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>HH6</name>
+<description>R turn to camp</description>
+<Point><coordinates>-123.08746,47.52792,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>DB1</name>
+<Point><coordinates>-122.93251,47.65195,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>DB2</name>
+<description>abandoned car</description>
+<Point><coordinates>-122.96046,47.65634,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>DB3</name>
+<description>spur trail</description>
+<Point><coordinates>-122.98282,47.66784,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>DB4</name>
+<description>Murhut Falls!</description>
+<Point><coordinates>-123.03852,47.67648,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>DB5</name>
+<description>sooo much trash</description>
+<Point><coordinates>-123.02746,47.67632,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>DB6</name>
+<description>more trash</description>
+<Point><coordinates>-123.03609,47.67313,0</coordinates></Point>
+</Placemark>
+</Document>
+</kml>
